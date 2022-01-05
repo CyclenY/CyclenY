@@ -32,7 +32,7 @@
 
  -------
  
- ### Pubg mobile 🎮
+ ### Cinematic Alam
 <p align="center">
   <img src="https://github.com/CyclenY/CyclenY/blob/main/Alam_Cinematic_Film.gif" />
 </p>
@@ -80,7 +80,3 @@
 ![Metrics](https://metrics.lecoq.io/CyclenY?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
 </details> 
-
-<p align="center">
- 
-<img width="528" alt="Screen Shot 2021-05-06 at 8 35 33 AM" src="https://i.ibb.co/kMNbw3m/chikoo.jpg">
