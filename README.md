@@ -48,5 +48,9 @@
   <a href="https://github.com/CyclenY"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyclenY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
 
- 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyclenY&theme=radical)
+ ### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=CyclenY&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=Base-CyclenY&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=Base-CyclenYV2&theme=dark)
+
+
