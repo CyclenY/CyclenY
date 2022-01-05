@@ -22,18 +22,18 @@
 
 <h3 align="left">My Project</h3>
 <p align="left">
-  <a href="https://github.com/Zero-YT7/Base-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=Base-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
-  <a href="https://github.com/Zero-YT7/BaseNew-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=BaseNew-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
-<a href="https://github.com/Zero-YT7/RestAPI-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=RestAPI-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
+  <a href="https://github.com/CyclenY/Base-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=Base-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
+  <a href="https://github.com/CyclenY/BaseNew-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=BaseNew-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
+<a href="https://github.com/CyclenY/RestAPI-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=RestAPI-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
 </p>
 
 <h3 align="left">Github Stats</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Zero-YT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=CyclenY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
 </p> 
 
 <p align="left">
-  <a href="https://github.com/Zero-YT7"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zero-YT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+  <a href="https://github.com/CyclenY"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyclenY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
 
  
