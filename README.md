@@ -46,14 +46,16 @@
 </p>
 
 ------
- 
- ### Github Stats 🚀
 
 <h3 align="left">My Project</h3>
 <p align="left">
   <a href="https://github.com/CyclenY/CyclenY"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=CyclenY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
   <a href="https://github.com/CyclenY/Base-CyclenYV2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=Base-CyclenYV2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
 
+------
+ 
+ ### Github Stats 🚀
+ 
 <h3 align="left">Github Stats</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=CyclenY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
@@ -63,9 +65,13 @@
   <a href="https://github.com/CyclenY"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyclenY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
 
+------
+
  ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=CyclenY&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=Base-CyclenYV2&theme=nightowl)
+
+------
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
