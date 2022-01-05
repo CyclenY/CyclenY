@@ -57,10 +57,10 @@
 
 ------
  
-<h3 align="left">Github Stats</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=CyclenY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
-</p> 
+ ### Github Stats 🚀
+ 
+<p align="center"><a href="https://github.com/CyclenY"><img src="https://github-readme-stats.vercel.app/api?username=CyclenY&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/CyclenY"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyclenY&theme=radical&layout=compact"></a></p> 
 
 <p align="left">
   <a href="https://github.com/CyclenY"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyclenY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
