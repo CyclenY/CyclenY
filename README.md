@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- 👼 My name is CyclenY
+- 👼 My name is Cycleny
 
 - 🗣️ I am 16 years old 
 
@@ -31,6 +31,23 @@
 </p>
 
  -------
+ 
+ ### Pubg mobile 🎮
+<p align="center">
+  <img src="https://github.com/CyclenY/CyclenY/blob/main/Alam_Cinematic_Film.gif" />
+</p>
+
+------
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+ 
+ ### Github Stats 🚀
 
 <h3 align="left">My Project</h3>
 <p align="left">
