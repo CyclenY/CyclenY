@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- 👼 My name is Cycleny
+- 👼 My name is CyclenY
 
 - 🗣️ I am 16 years old 
 
