@@ -40,61 +40,14 @@
 <a href="https://vt.tiktok.com/ZSe9gDbfR"><img src="https://img.shields.io/badge/Tiktok CyclenY-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@im_chikoo" /></a>
 </p>
 
-## ```SETTING```
+<h3 align="left">Github Stats</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Zero-YT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
+</p> 
 
-- Owner number [Here](https://github.com/CyclenY/Base-CyclenYV2/blob/src/setting.json#L4)
-- Owner name [Here](https://github.com/CyclenY/Base-CyclenYV2/blob/src/setting.json#L13)
-- Botname [Here](https://github.com/CyclenY/Base-CyclenYV2/blob/src/setting.json#L14)
-
-## ```DONASI```
-
-- [`SAWERIA`](https://saweria.co/ZeroYT7)
-
-## ```GROUP BOT```
-
-- [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
-
-# Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://www.gyan.dev/ffmpeg/builds/) (for sticker command)
-* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
-
-## For Termux
-```bash
-termux-setup-storage
-apt update && apt upgrade
-pkg install nodejs
-pkg install git 
-pkg install ffmpeg
-pkg install libwebp 
-pkg install imagemagick
-pkg install bash
-git clone https://github.com/CyclenY/Base-CyclenYV2
-cd Base-CyclenYV2
-npm install
-npm start
-```
-## For Windows
-```bash
-git clone https://github.com/CyclenY/Base-CyclenYV2
-cd Base-CyclenYV2
-npm install
-npm start
-```
-## For VPS
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagemagick
-apt install bash
-git clone https://github.com/CyclenY/Base-CyclenYV2
-cd Base-CyclenYV2
-npm install
-npm start
-```
+<p align="left">
+  <a href="https://github.com/Zero-YT7"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zero-YT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+</p>
 
  
  
