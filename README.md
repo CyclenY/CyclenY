@@ -48,6 +48,6 @@
 
  ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=CyclenY&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=Base-CyclenY&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=Base-CyclenYV2&theme=nightowl)
 
 
