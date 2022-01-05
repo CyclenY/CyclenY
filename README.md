@@ -18,7 +18,7 @@
 
 ## ```DONASI```
 
-- [`SAWERIA`](https://saweria.co/ZeroYT7)
+- [`SAWERIA`](https://saweria.co/rifkyekapratama)
 
 <h3 align="left">My Project</h3>
 <p align="left">
