@@ -54,8 +54,6 @@
 
 ------
  
- ### Github Stats 🚀
- 
 <h3 align="left">Github Stats</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=CyclenY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
