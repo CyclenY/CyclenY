@@ -37,7 +37,7 @@
  
  ### Cinematic Alam
 <p align="center">
- <img src="https://www.kapwing.com/e/61d5f2823c20ff017c9d22be?autoplay=true" />
+ <img src="https://github.com/CyclenY/CyclenY/blob/main/Alam%20Cinematic%20Film.mp4" />
 </p>
 
 ------
