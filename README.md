@@ -42,9 +42,9 @@
 
 ## ```SETTING```
 
-- Owner number [Here](https://github.com/CyclenY/Base-CyclenYV2/blob/master/setting.json#L4)
-- Owner name [Here](https://github.com/CyclenY/Base-CyclenYV2/blob/master/setting.json#L13)
-- Botname [Here](https://github.com/CyclenY/Base-CyclenYV2/blob/master/setting.json#L14)
+- Owner number [Here](https://github.com/CyclenY/Base-CyclenYV2/blob/src/setting.json#L4)
+- Owner name [Here](https://github.com/CyclenY/Base-CyclenYV2/blob/src/setting.json#L13)
+- Botname [Here](https://github.com/CyclenY/Base-CyclenYV2/blob/src/setting.json#L14)
 
 ## ```DONASI```
 
