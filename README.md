@@ -37,7 +37,7 @@
  
  ### Cinematic Alam
 <p align="center">
-  <img src="https://kapwi.ng/c/UaNrhV7fkV" />
+  <div style="height: 0; padding-bottom: calc(56.25%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/61d5f2823c20ff017c9d22be?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Content made on <a href="https://www.kapwing.com/" target="_blank" rel="noopener noreferrer">Kapwing</a></p>
 </p>
 
 ------
