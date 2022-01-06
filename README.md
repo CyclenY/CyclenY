@@ -16,9 +16,9 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/CyclenY"><img title="Author" src="https://img.shields.io/badge/Author-CyclenY-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/CyclenY"><img title="Author" src="https://img.shields.io/badge/Author-CyclenY-blue.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6281289682492">KYAAA ONI CHAN >//< </a>
+  <a href="https://wa.me/6281289682492">Kyaaa >//< </a>
 </h4>
 </p>
 ------
