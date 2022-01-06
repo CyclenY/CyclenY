@@ -18,7 +18,9 @@
 <p align="center">
   <a href="https://github.com/CyclenY"><img title="Author" src="https://img.shields.io/badge/Author-CyclenY-purple.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6281289682492">✰ Kyaaa >//< </a>
+  <a href="https://wa.me/6281289682492">Kyaaa >//< </a>
+  <a href="https://wa.me/6281289682492">Nomor Owner Ku kak </a>
+  <a href="https://wa.me/6281289682492">Pencet aja "kyaaa >//<" nanti keluar kok </a>
 </h4>
 </p>
 ------
