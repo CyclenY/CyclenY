@@ -37,7 +37,7 @@
 <a href="https://vt.tiktok.com/ZSe9gDbfR"><img src="https://img.shields.io/badge/Tiktok CyclenY-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@im_chikoo" /></a>
 <a href="https://github.com/CyclenY"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 <a href="https://www.youtube.com/channel/UCEMlNO1Cv3OZ-AXOa-SEMzA"><img src="https://img.shields.io/youtube/channel/subscribers/UCEMlNO1Cv3OZ-AXOa-SEMzA?style=social" /> <br>
-<a href="https://komarev.com/ghpvc/?username=CyclenY&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+View"></a>
+<a href="https://komarev.com/ghpvc/?username=CyclenY&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=CyclenY&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
  -------
