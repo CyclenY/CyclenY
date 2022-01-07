@@ -51,12 +51,11 @@
 
  # Graphics
 
-Contains basic concepts and algorithms of computer graphics. These files covers the basic methods needed to model and render 3D objects, including
-much of the following: graphics displays, basic optics, line drawing, affine and perspective transformations, windows and viewports, clipping, visibility, illumination and reflectance models, radiometry, energy transfer models, arametric representations, curves and surfaces, texture mapping, graphics hardware, ray tracing, graphics toolkits, animation systems.
-
-![](bunny-rigid-body.gif)
+<p align="center">
+ <img src="https://github.com/CyclenY/CyclenY/blob/main/bunny-rigid-body.gif" />
+ </p>
  
- --------
+--------
  
 ### Spotify Playing 🎧
 
