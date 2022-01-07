@@ -52,8 +52,8 @@
  # Graphics
 
 <p align="center">
- <img src="https://github.com/CyclenY/CyclenY/blob/main/bunny-rigid-body.gif" />
- </p>
+ <img src="https://www.youtube.com/watch?v=G4BTGxVM55Q" />
+</p>
  
 --------
  
