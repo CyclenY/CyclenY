@@ -48,14 +48,6 @@
 </p>
 
 ------
-
- # Graphics
-
-<p align="center">
- <img src="https://www.youtube.com/watch?v=G4BTGxVM55Q" />
-</p>
- 
---------
  
 ### Spotify Playing 🎧
 
