@@ -8,11 +8,6 @@
 </p>
 <a href="https://github.com/CyclenY"><img src="https://cardivo.vercel.app/api?name=Rifky | Chikoo&description=Hi, i'm CyclenY and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@rifkyekaxyz_&github=CyclenY&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 
-
-<p align="center">
-<img src="https://i.ibb.co/kMNbw3m/chikoo.jpg" />
-</p>
-
 <p align="center">
 
 - 👼 My name is Cycleny
