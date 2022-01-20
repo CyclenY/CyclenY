@@ -1,12 +1,13 @@
 # CyclenY <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 </p>
-<a href="https://github.com/CyclenY"><img src="https://cardivo.vercel.app/api?name=Rifky | Chikoo&description=Hi, i'm CyclenY and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@rifkyekaxyz_&github=CyclenY&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Hello+Thank+For+Visiting+Github+CyclenY."
             alt="Typing SVG"
         />
     </a>
 </p>
+<a href="https://github.com/CyclenY"><img src="https://cardivo.vercel.app/api?name=Rifky | Chikoo&description=Hi, i'm CyclenY and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@rifkyekaxyz_&github=CyclenY&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+
 
 <p align="center">
 <img src="https://i.ibb.co/kMNbw3m/chikoo.jpg" />
