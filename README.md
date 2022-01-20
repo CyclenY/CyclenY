@@ -61,11 +61,13 @@
 </p>
 
 ------
+        
+ ### Github Stats 🚀
+        
  <p align="center">
   <a href="https://github.com/CylenY"><img src="https://github-readme-streak-stats.herokuapp.com?user=CyclenY&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
-------
- ### Github Stats 🚀
+
  
 <p align="center"><a href="https://github.com/CyclenY"><img src="https://github-readme-stats.vercel.app/api?username=CyclenY&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/CyclenY"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyclenY&theme=radical&layout=compact"></a></p> 
