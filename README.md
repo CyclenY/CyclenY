@@ -25,7 +25,7 @@
 </p>
         
 ### ℹ &nbsp;Personal Stuffs
-- 💻 I'm currently learning `JavaScript` 🚀.
+- 💻 I'm currently learning `JavaScript` & `Phyton`🚀.
 - 🔭 I'm currently working on my side project.
 - Languages: &nbsp;
 
